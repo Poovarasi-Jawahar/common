@@ -1,0 +1,6 @@
+{
+"name":"simple-calculator",
+"version":1.0,
+"operation":"simple calculation",
+"author":"poo"
+}
